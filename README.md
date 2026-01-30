@@ -454,15 +454,4 @@ Body:
 8. Unit testing
 9. API documentation dengan Swagger/OpenAPI
 
-## Lisensi
 
-ISC License
-
-## Kontak & Support
-
-Untuk pertanyaan atau masalah, silakan buat issue di repository ini.
-
----
-
-**Created for UCP 1 Practical Exam**
-Date: 27 January 2026
