@@ -407,23 +407,5 @@ Contoh error response:
 
 ### Test Cases
 
-**1. Create Book (Admin)**
-```
-POST http://localhost:3000/api/books
-Headers:
-  x-user-role: admin
-Body:
-{
-  "title": "Harry Potter",
-  "author": "J.K. Rowling",
-  "stock": 10
-}
-
-
-**2. Get All Books (Public)**
-
-
-**3. Borrow Book (User)**
-
 
 
