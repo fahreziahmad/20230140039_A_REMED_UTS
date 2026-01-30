@@ -406,6 +406,43 @@ Contoh error response:
 3. Set authorization header `x-user-role` untuk setiap request
 
 ### Test Cases
+1. Screenshot Menambah buku baru
+<img width="1920" height="1080" alt="Screenshot 2026-01-29 151436" src="https://github.com/user-attachments/assets/2185e398-ffbd-4fe2-a3a8-a76254642571" />
+
+2. Screenshot Melihat daftar semua buku
+<img width="1920" height="1080" alt="Screenshot 2026-01-30 194724" src="https://github.com/user-attachments/assets/68e73acb-1972-4067-aab0-46d49792697a" />
+
+3. Melihat detail buku spesifik
+<img width="1920" height="1080" alt="Screenshot 2026-01-30 194526" src="https://github.com/user-attachments/assets/9355ac7c-d9fa-4d8a-96d5-9b460bbd1100" />
+
+4. Mengupdate data buku
+<img width="1920" height="1080" alt="Screenshot 2026-01-30 194918" src="https://github.com/user-attachments/assets/a3375664-7159-426a-aad3-3a1041e30b18" />
+
+5. Menghapus data buku
+<img width="1920" height="1080" alt="Screenshot 2026-01-30 195133" src="https://github.com/user-attachments/assets/b8239026-1ba9-4083-a5dc-2cfa51360e77" />
+
+6. Meminjam buku (mengurangi stok dan catat lokasi)
+<img width="1920" height="1080" alt="Screenshot 2026-01-30 201945" src="https://github.com/user-attachments/assets/6b107dbd-4fa8-43cc-8edc-cce9a2cdcc7d" />
+
+7. Melihat riwayat peminjaman dan lokasi
+<img width="1920" height="1080" alt="Screenshot 2026-01-30 202536" src="https://github.com/user-attachments/assets/15e76315-e4b8-4525-87f7-5972b4caa6e2" />
+
+TAMPILAN DATABASE PHP MY ADMIN
+
+1.TAMPILAN DAFTAR DATA BUKU
+<img width="1920" height="1080" alt="Screenshot 2026-01-30 203033" src="https://github.com/user-attachments/assets/b169470e-ebde-4abb-85c8-7fd458bc6597" />
+2. TAMPILAN DAFTAR PEMINJAMAN BUKU
+<img width="1920" height="1080" alt="Screenshot 2026-01-30 203042" src="https://github.com/user-attachments/assets/6b4d756a-b932-49da-9deb-0820cc3970d1" />
+
+
+
+
+
+
+
+
+
+
 
 
 
