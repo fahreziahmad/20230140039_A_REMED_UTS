@@ -418,17 +418,12 @@ Body:
   "author": "J.K. Rowling",
   "stock": 10
 }
-```
+
 
 **2. Get All Books (Public)**
-```
-GET http://localhost:3000/api/books
-Headers:
-  x-user-role: user
-```
+
 
 **3. Borrow Book (User)**
-```
 
 
 
