@@ -429,16 +429,6 @@ Headers:
 
 **3. Borrow Book (User)**
 ```
-POST http://localhost:3000/api/borrow
-Headers:
-  x-user-role: user
-  x-user-id: 1
-Body:
-{
-  "bookId": 1,
-  "latitude": -6.2088,
-  "longitude": 106.8456
-}
-```
+
 
 
