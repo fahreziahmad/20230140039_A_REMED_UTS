@@ -441,17 +441,4 @@ Body:
 }
 ```
 
-## Kontribusi & Pengembangan Lebih Lanjut
-
-### Fitur yang bisa ditambahkan:
-1. Authentication dengan JWT
-2. Return/pengembalian buku
-3. Denda keterlambatan
-4. Rating & review buku
-5. Search & filter buku
-6. Pagination untuk data besar
-7. Logging & monitoring
-8. Unit testing
-9. API documentation dengan Swagger/OpenAPI
-
 
